@@ -9,3 +9,5 @@ CIRCUIT DESIGN
 
 <img width="925" height="808" alt="image" src="https://github.com/user-attachments/assets/30865f9e-d981-4c6a-b02e-cbf1379a2d4e" />
 
+Design
+
