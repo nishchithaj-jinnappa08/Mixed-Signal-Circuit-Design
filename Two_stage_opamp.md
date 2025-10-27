@@ -7,7 +7,8 @@ This architecture provides a good balance between gain, output voltage range, an
 
 CIRCUIT DESIGN
 
-<img width="925" height="808" alt="image" src="https://github.com/user-attachments/assets/30865f9e-d981-4c6a-b02e-cbf1379a2d4e" />
+<img width="925" height="808" alt="image (1)" src="https://github.com/user-attachments/assets/f0f9bdcf-83e2-4979-ad12-ab80a0d6dccd" />
+
 
 <img width="1136" height="836" alt="image (2)" src="https://github.com/user-attachments/assets/59559085-cc2e-4167-8b9c-0c8cf91c281d" />
 
