@@ -5,6 +5,10 @@ A two-stage operational amplifier is a commonly used analog circuit designed to 
 
 This architecture provides a good balance between gain, output voltage range, and stability. Because of these advantages, the two-stage op-amp is widely used in analog ICs, filters, and signal conditioning circuits. Its structure also makes it easier to adjust parameters like slew rate, gain-bandwidth product, and power efficiency.
 
+CIRCUIT
+![Uploading image.png…]()
+
+
 
 
 #Schematic
