@@ -9,15 +9,7 @@ This architecture provides a good balance between gain, output voltage range, an
 
 ![WhatsApp Image 2025-11-04 at 08 26 13_0e177c14](https://github.com/user-attachments/assets/dd2d3b70-b6ba-4f8c-b4c9-365dd47537bf)
 
-# Schmatic
-
-<img width="925" height="808" alt="image (1)" src="https://github.com/user-attachments/assets/f0f9bdcf-83e2-4979-ad12-ab80a0d6dccd" />
-
-# Symbol
-
-<img width="1136" height="836" alt="image (2)" src="https://github.com/user-attachments/assets/59559085-cc2e-4167-8b9c-0c8cf91c281d" />
-
-# Design specification
+# Design specifications
 
 ![WhatsApp Image 2025-11-04 at 08 07 27_01f76d7c](https://github.com/user-attachments/assets/a0255e70-fdee-455b-9a81-b20df74580af)
 
@@ -29,6 +21,20 @@ This architecture provides a good balance between gain, output voltage range, an
 5. For the tail NMOS transistor (M5), the VBIAS must be designed such that it provides the required tail current (I5).
 6. If the desired current is known, designing VBIAS becomes straightforward.
 7. M5 functions as the tail current source of the differential amplifier.
+
+# Schematic
+
+<img width="817" height="826" alt="image (1)" src="https://github.com/user-attachments/assets/d6b66642-7ee2-4138-884e-1083ed51faf1" />
+
+# Simulation
+
+![2 (1)](https://github.com/user-attachments/assets/18ff7c5f-e2f1-40e4-92b0-18ec17b09a19)
+
+
+
+
+
+
 
 
 
