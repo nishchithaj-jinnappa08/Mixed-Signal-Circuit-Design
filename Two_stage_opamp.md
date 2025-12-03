@@ -30,6 +30,8 @@ This architecture provides a good balance between gain, output voltage range, an
 
 ![2 (1)](https://github.com/user-attachments/assets/18ff7c5f-e2f1-40e4-92b0-18ec17b09a19)
 
+enter the data over here.
+
 
 
 
