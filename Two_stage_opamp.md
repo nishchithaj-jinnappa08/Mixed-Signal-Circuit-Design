@@ -23,8 +23,7 @@ This architecture provides a good balance between gain, output voltage range, an
 7. M5 functions as the tail current source of the differential amplifier.
 
 # Schematic
-
-<img width="817" height="826" alt="image" src="https://github.com/user-attachments/assets/d36f1151-255b-4bae-8c63-ebc9de08f9a8" />
+<img width="817" height="826" alt="image" src="https://github.com/user-attachments/assets/d11f373d-d22c-428f-9107-37e0d21d6bf6" />
 
 # Test Circuit
 The test circuit applies differential AC signals to evaluate the small-signal gain, bandwidth, and phase response of the designed op-amp. Supply sources and bias currents are provided to ensure correct operating points for both stages. The output node is monitored under load conditions to verify overall stability and transient behavior.
